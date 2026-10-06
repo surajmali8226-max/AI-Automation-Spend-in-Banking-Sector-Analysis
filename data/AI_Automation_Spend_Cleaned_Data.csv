@@ -1,0 +1,73 @@
+Year,Region,Country,Bank,AI_Use_Case,Technology,AI_Spend_USD_Million,Estimated_Cost_Savings_USD_Million,ROI_Multiple,Automation_Rate_Percent,FTE_Hours_Saved_Monthly,AI_Projects,Maturity,Net_Benefit_USD_Million,Savings_to_Spend_Ratio,Total_Impact_Score
+2020,North America,USA,Citigroup,AML Monitoring,Machine Learning,1.5,0.37,1.41,24.4,1153,8,Scaling,-1.13,0.24666666666666667,3.157272
+2020,North America,Canada,TD Bank,Document Processing,RPA + AI,3.43,4.54,4.2,73.2,985,1,Pilot,1.1099999999999999,1.3236151603498543,8.001840000000001
+2020,Europe,UK,Barclays,Code Generation,Generative AI,3.76,2.16,2.25,23.4,219,15,Scaling,-1.5999999999999996,0.574468085106383,6.94125
+2020,Europe,Germany,Commerzbank,IT Operations,AI Automation,1.5,1.71,2.88,74.0,676,9,Pilot,0.20999999999999996,1.14,9.521279999999999
+2020,Europe,France,Societe Generale,Code Generation,Generative AI,1.5,1.03,2.78,56.1,538,8,Pilot,-0.47,0.6866666666666666,7.811243999999999
+2020,Europe,Switzerland,Credit Suisse,Fraud Detection,Machine Learning,1.76,2.02,3.59,30.5,595,10,Scaling,0.26,1.1477272727272727,9.3699
+2020,Asia-Pacific,India,HDFC Bank,Customer Service Chatbot,Generative AI,2.11,0.45,1.52,70.3,1046,8,Production,-1.66,0.2132701421800948,4.659408
+2020,Asia-Pacific,Singapore,DBS Bank,Customer Service Chatbot,Generative AI,3.3,4.88,3.31,47.4,217,13,Pilot,1.58,1.4787878787878788,11.221561999999999
+2020,Asia-Pacific,Japan,MUFG Bank,Fraud Detection,Machine Learning,1.64,0.73,2.26,38.7,622,8,Scaling,-0.9099999999999999,0.4451219512195122,5.642315999999999
+2020,Asia-Pacific,Australia,Commonwealth Bank,Document Processing,RPA + AI,1.5,2.38,3.54,70.6,230,8,Scaling,0.8799999999999999,1.5866666666666667,10.870631999999999
+2020,Middle East,UAE,Emirates NBD,IT Operations,AI Automation,1.5,2.31,3.5,58.8,990,3,Pilot,0.81,1.54,7.2254
+2020,Middle East,Saudi Arabia,Al Rajhi Bank,Credit Risk & Underwriting,Machine Learning,1.5,1.94,3.22,60.6,900,9,Scaling,0.43999999999999995,1.2933333333333332,9.825508
+2021,North America,USA,Bank of America,Back-office Workflow,RPA + AI,1.5,1.49,2.91,68.7,514,7,Scaling,-0.010000000000000009,0.9933333333333333,8.345589
+2021,North America,Canada,RBC,AML Monitoring,Machine Learning,3.42,4.5,3.36,71.6,607,10,Production,1.08,1.3157894736842106,11.531519999999999
+2021,Europe,UK,HSBC,Document Processing,RPA + AI,3.61,6.3,4.41,26.2,219,1,Pilot,2.69,1.745152354570637,6.121962000000001
+2021,Europe,Germany,Deutsche Bank,Code Generation,Generative AI,3.71,4.31,4.3,64.1,678,5,Scaling,0.5999999999999996,1.1617250673854447,10.584449999999999
+2021,Europe,France,Societe Generale,Marketing Personalization,Generative AI,2.85,3.58,3.73,46.1,471,12,Pilot,0.73,1.256140350877193,11.988966000000001
+2021,Europe,Switzerland,Credit Suisse,Credit Risk & Underwriting,Machine Learning,3.87,1.71,2.23,33.1,142,2,Scaling,-2.16,0.441860465116279,3.561756
+2021,Asia-Pacific,India,ICICI Bank,IT Operations,AI Automation,3.22,1.15,1.72,29.4,276,4,Pilot,-2.0700000000000003,0.3571428571428571,3.115952
+2021,Asia-Pacific,Singapore,OCBC Bank,Fraud Detection,Machine Learning,1.89,1.56,2.52,58.7,227,11,Production,-0.32999999999999985,0.8253968253968255,8.398404000000001
+2021,Asia-Pacific,Japan,SMBC,Fraud Detection,Machine Learning,2.41,3.55,4.29,56.7,432,3,Production,1.1399999999999997,1.4730290456431534,8.739159
+2021,Asia-Pacific,Australia,Westpac,IT Operations,AI Automation,1.5,1.88,3.69,25.5,367,8,Pilot,0.3799999999999999,1.2533333333333332,8.335709999999999
+2021,Middle East,UAE,First Abu Dhabi Bank,Code Generation,Generative AI,1.5,2.43,4.14,54.6,910,2,Production,0.9300000000000002,1.62,7.680527999999999
+2021,Middle East,Saudi Arabia,Al Rajhi Bank,Document Processing,RPA + AI,2.42,2.7,3.48,69.0,1152,16,Production,0.28000000000000025,1.115702479338843,15.29112
+2022,North America,USA,Bank of America,Marketing Personalization,Generative AI,6.89,15.87,4.58,37.3,943,14,Scaling,8.98,2.3033381712626997,15.092016
+2022,North America,Canada,TD Bank,Credit Risk & Underwriting,Machine Learning,8.58,4.87,2.01,54.1,830,14,Pilot,-3.71,0.5675990675990676,7.433783999999998
+2022,Europe,UK,Lloyds Banking Group,Credit Risk & Underwriting,Machine Learning,5.77,3.77,2.52,20.6,779,6,Production,-1.9999999999999996,0.6533795493934142,4.862592
+2022,Europe,Germany,Deutsche Bank,KYC Automation,RPA + AI,7.7,6.18,2.76,69.4,313,15,Scaling,-1.5200000000000005,0.8025974025974025,11.688599999999997
+2022,Europe,France,BNP Paribas,Credit Risk & Underwriting,Machine Learning,6.95,12.9,4.78,17.6,1099,6,Scaling,5.95,1.856115107913669,8.994048
+2022,Europe,Switzerland,UBS,Document Processing,RPA + AI,5.0,5.57,2.74,70.7,1152,1,Pilot,0.5700000000000003,1.114,5.144898000000001
+2022,Asia-Pacific,India,HDFC Bank,Document Processing,RPA + AI,2.12,1.53,2.54,44.1,595,3,Scaling,-0.5900000000000001,0.7216981132075472,4.758182000000001
+2022,Asia-Pacific,Singapore,OCBC Bank,Customer Service Chatbot,Generative AI,1.75,2.58,4.76,51.9,184,10,Production,0.8300000000000001,1.4742857142857144,14.460880000000001
+2022,Asia-Pacific,Japan,MUFG Bank,Marketing Personalization,Generative AI,5.16,3.85,2.26,36.6,950,13,Pilot,-1.31,0.7461240310077519,7.100467999999999
+2022,Asia-Pacific,Australia,Commonwealth Bank,Code Generation,Generative AI,5.11,1.71,1.9,52.7,429,14,Production,-3.4000000000000004,0.33463796477495106,6.96312
+2022,Middle East,UAE,Emirates NBD,Customer Service Chatbot,Generative AI,2.23,2.14,2.88,17.2,1178,17,Pilot,-0.08999999999999986,0.9596412556053813,9.113472
+2022,Middle East,Saudi Arabia,Al Rajhi Bank,KYC Automation,RPA + AI,1.5,1.23,2.38,47.2,1033,12,Scaling,-0.27,0.82,7.7073920000000005
+2023,North America,USA,Bank of America,AML Monitoring,Machine Learning,10.49,4.56,1.68,23.3,1159,17,Scaling,-5.930000000000001,0.434699714013346,5.592888
+2023,North America,Canada,RBC,Back-office Workflow,RPA + AI,6.17,1.15,1.29,19.7,820,9,Scaling,-5.02,0.18638573743922204,2.933847
+2023,Europe,UK,HSBC,Back-office Workflow,RPA + AI,5.79,1.26,1.54,29.4,926,16,Scaling,-4.53,0.21761658031088082,5.181176000000001
+2023,Europe,Germany,Commerzbank,Document Processing,RPA + AI,7.5,5.44,2.71,51.7,1026,14,Pilot,-2.0599999999999996,0.7253333333333334,9.866568
+2023,Europe,France,BNP Paribas,Fraud Detection,Machine Learning,7.26,7.41,2.87,35.8,551,5,Production,0.15000000000000036,1.0206611570247934,5.846190000000001
+2023,Europe,Switzerland,Credit Suisse,Back-office Workflow,RPA + AI,7.08,8.64,3.01,52.6,545,16,Pilot,1.5600000000000005,1.2203389830508475,11.942476000000001
+2023,Asia-Pacific,India,State Bank of India,Customer Service Chatbot,Generative AI,4.63,4.9,3.27,71.4,409,1,Scaling,0.27000000000000046,1.0583153347732182,6.165258000000001
+2023,Asia-Pacific,Singapore,DBS Bank,Document Processing,RPA + AI,3.81,6.55,4.15,52.6,1096,12,Pilot,2.7399999999999998,1.7191601049868765,13.932380000000002
+2023,Asia-Pacific,Japan,SMBC,Customer Service Chatbot,Generative AI,4.7,5.6,3.56,35.2,999,2,Pilot,0.8999999999999995,1.1914893617021276,5.775744
+2023,Asia-Pacific,Australia,Commonwealth Bank,AML Monitoring,Machine Learning,3.73,3.42,2.45,56.6,758,4,Pilot,-0.31000000000000005,0.9168900804289544,5.37138
+2023,Middle East,UAE,Emirates NBD,Marketing Personalization,Generative AI,1.5,1.35,2.43,61.6,66,12,Scaling,-0.1499999999999999,0.9,8.639136000000002
+2023,Middle East,Saudi Arabia,Saudi National Bank,IT Operations,AI Automation,1.5,0.53,1.57,60.3,91,16,Scaling,-0.97,0.35333333333333333,6.543446000000001
+2024,North America,USA,JPMorgan Chase,Credit Risk & Underwriting,Machine Learning,11.65,14.24,3.26,72.0,914,5,Pilot,2.59,1.2223175965665236,8.4108
+2024,North America,Canada,RBC,AML Monitoring,Machine Learning,10.84,18.52,3.91,55.4,598,7,Pilot,7.68,1.7084870848708487,10.329438
+2024,Europe,UK,Barclays,Back-office Workflow,RPA + AI,8.99,13.9,4.4,41.5,687,15,Pilot,4.91,1.546162402669633,15.565000000000001
+2024,Europe,Germany,Commerzbank,Back-office Workflow,RPA + AI,7.64,1.62,1.56,52.1,199,9,Production,-6.02,0.21204188481675396,4.5082439999999995
+2024,Europe,France,Societe Generale,Customer Service Chatbot,Generative AI,10.93,23.62,4.75,71.8,1123,12,Scaling,12.690000000000001,2.1610247026532483,17.9531
+2024,Europe,Switzerland,UBS,Back-office Workflow,RPA + AI,8.0,2.39,1.6,69.4,682,8,Pilot,-5.609999999999999,0.29875,4.87872
+2024,Asia-Pacific,India,HDFC Bank,IT Operations,AI Automation,7.58,5.12,2.55,72.7,853,1,Pilot,-2.46,0.6754617414248021,4.844234999999999
+2024,Asia-Pacific,Singapore,OCBC Bank,Back-office Workflow,RPA + AI,9.4,12.6,4.69,15.7,109,11,Production,3.1999999999999993,1.3404255319148934,11.395293000000002
+2024,Asia-Pacific,Japan,SMBC,Credit Risk & Underwriting,Machine Learning,5.79,2.49,1.98,25.0,685,11,Pilot,-3.3,0.4300518134715026,5.197500000000001
+2024,Asia-Pacific,Australia,Westpac,Marketing Personalization,Generative AI,7.03,1.85,1.58,38.7,1175,4,Scaling,-5.18,0.2631578947368421,3.068044
+2024,Middle East,UAE,First Abu Dhabi Bank,Customer Service Chatbot,Generative AI,2.55,1.68,2.83,30.6,958,13,Scaling,-0.8699999999999999,0.6588235294117647,8.500753999999999
+2024,Middle East,Saudi Arabia,Saudi National Bank,Credit Risk & Underwriting,Machine Learning,1.58,3.24,4.62,64.4,479,10,Production,1.6600000000000001,2.050632911392405,15.190560000000001
+2025,North America,USA,Bank of America,Document Processing,RPA + AI,14.51,21.52,4.75,63.6,882,17,Production,7.01,1.4831150930392833,20.981700000000004
+2025,North America,Canada,TD Bank,Code Generation,Generative AI,14.13,6.14,2.18,39.9,547,17,Scaling,-7.990000000000001,0.4345364472753007,8.234514000000003
+2025,Europe,UK,HSBC,KYC Automation,RPA + AI,12.01,16.29,3.93,58.6,1138,14,Pilot,4.279999999999999,1.3563696919233972,14.959151999999998
+2025,Europe,Germany,Deutsche Bank,Credit Risk & Underwriting,Machine Learning,13.17,7.64,1.95,31.5,517,2,Scaling,-5.53,0.5801063022019741,3.0770999999999997
+2025,Europe,France,Societe Generale,IT Operations,AI Automation,12.15,15.25,3.07,61.3,1107,12,Scaling,3.0999999999999996,1.2551440329218106,10.894202
+2025,Europe,Switzerland,Credit Suisse,Code Generation,Generative AI,15.4,14.14,2.93,50.4,882,14,Scaling,-1.2599999999999998,0.9181818181818182,10.576127999999999
+2025,Asia-Pacific,India,State Bank of India,IT Operations,AI Automation,10.69,11.79,2.77,38.5,278,6,Scaling,1.0999999999999996,1.1028999064546305,6.13832
+2025,Asia-Pacific,Singapore,DBS Bank,IT Operations,AI Automation,5.62,8.97,3.71,46.4,167,17,Scaling,3.3500000000000005,1.596085409252669,14.664888000000001
+2025,Asia-Pacific,Japan,SMBC,AML Monitoring,Machine Learning,9.48,7.08,2.38,44.6,140,16,Pilot,-2.4000000000000004,0.7468354430379747,8.947848
+2025,Asia-Pacific,Australia,Westpac,Marketing Personalization,Generative AI,8.73,11.19,3.71,25.8,696,5,Pilot,2.459999999999999,1.281786941580756,7.00077
+2025,Middle East,UAE,First Abu Dhabi Bank,KYC Automation,RPA + AI,2.69,3.02,3.01,36.9,1126,15,Scaling,0.33000000000000007,1.1226765799256506,10.301725
+2025,Middle East,Saudi Arabia,Saudi National Bank,Marketing Personalization,Generative AI,4.93,6.38,4.52,67.4,1079,4,Production,1.4500000000000002,1.2941176470588236,10.593071999999998
